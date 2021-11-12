@@ -1,4 +1,4 @@
-# Instacart Market Basket Predictive Analysis
+# Video Games Sentiment Analysis
 Jason W
 
 ## Abstract
@@ -20,7 +20,7 @@ The dataset contain more than 2M reviews from [Amazon Video Games](https://nijia
 1. Text Processing using CountVectorizer, Stemming, and Lemmatization.
 2. Topic Model using NMF and LDA
 3. Use 15 topics for the model
-4. Topic Interpreter by looking a the most common words, then by manually analyze the reviews based on the topic and 
+4. Topic Interpreter by looking a the most common words, then by manually analyze the reviews based on the topic and by looking at topic coherence score
 
 
 ## Tools
@@ -31,4 +31,4 @@ The dataset contain more than 2M reviews from [Amazon Video Games](https://nijia
 
 ## Communication
 
-In addition to the slides and visuals presented, Netflix Subscribers Recommendation will be embedded on my personal website.
+In addition to the slides and visuals presented, Video Games Sentiment Analysis will be embedded on my personal website.
