@@ -6,9 +6,8 @@ The goal of this project is to help a video games company marketing team to anal
 
 
 ## Design
-The datas are provided by [Instacart Datasets](https://www.kaggle.com/c/instacart-market-basket-analysis/data). 
-Analysing data through Python(Pandas) and using scikit-learn for a better prediction of the consumer behavior.
-
+The datas are provided by [Amazon Video Games](https://nijianmo.github.io/amazon/index.html).
+Analysing data through Python(Pandas) and using scikit-learn for a better sentiment and recommendation system.
 
 
 ## Data
